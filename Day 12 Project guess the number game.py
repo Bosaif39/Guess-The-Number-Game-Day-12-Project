@@ -11,7 +11,7 @@ if(gg=="easy"):
     
 elif(gg=="hard"):
     tr=5
-print(f"num is {gus}")
+print("The number from 1 to 100")
 while(tr>0):
     n=int(input("number is :"))
     if(n>gus):
@@ -25,5 +25,8 @@ while(tr>0):
         print(f"tries left {tr}")
         
     elif(n==gus):
-        print("You man")
+        print("You win")
         break
+
+if(tr==0):
+    print(f"You lose the number is {gus}")
