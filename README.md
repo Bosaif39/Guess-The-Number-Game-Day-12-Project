@@ -12,7 +12,7 @@ This is the Day 12 project from the 100 Days of Code: The Complete Python Pro Bo
 
 **Example**
 
-![alt text](https://github.com/Bosaif39/example-pics/blob/main/D_11.png?raw=true)
+![alt text](https://github.com/Bosaif39/example-pics/blob/main/D_12.png?raw=true)
 
 **Requirements:**
 
