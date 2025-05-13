@@ -16,6 +16,6 @@ This is the Day 12 project from the 100 Days of Code: The Complete Python Pro Bo
 
 ## **Requirements:**
 
-Python 3.x
+* Python 3.x
 
 
